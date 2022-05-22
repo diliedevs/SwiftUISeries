@@ -1,3 +1,0 @@
-# SwiftUI Series macOS
-
-## Indexator
