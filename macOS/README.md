@@ -5,7 +5,7 @@ This is my entry for [The SwiftUI Series - macOS challenge](https://www.swiftuis
 
 ## Indexator
 
-<p align="center">![Indexator AppIcon](./mac256.png)</p>
+![Indexator AppIcon](./mac256.png)
 
 I sometimes forget what files I have inside certain folders (inside other folders) and want to see a whole list of all the folder's contents.  
 I know you can easily do this with a terminal command or Automator, but I like having a UI where I can immediately see the results of certain options and don't have to look up what commands to use in terminal (one of the reasons I don't like use terminal much).
